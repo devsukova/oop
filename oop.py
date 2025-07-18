@@ -89,10 +89,10 @@ lecturer2 = Lecturer('Светлана', 'Петрова')
 lecturer2.courses_attached += ['Python']
 
 # Проверяющие
-reviewer1 = Reviewer('Дмитрий', 'Орлов')
+reviewer1 = Reviewer('Егор', 'Флоров')
 reviewer1.courses_attached += ['Python']
 
-reviewer2 = Reviewer('Елена', 'Кузнецова')
+reviewer2 = Reviewer('Ирина', 'Сидорова')
 reviewer2.courses_attached += ['Python'] 
 
 # Проверяющие оценивают студентов
